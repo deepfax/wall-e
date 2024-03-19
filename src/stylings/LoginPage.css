@@ -1,0 +1,23 @@
+.loginpg
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 1%; */
+    height: 100vh;
+    max-height: 100vh;
+    width: 100vw;
+    max-width: 100vw;
+    /* background-color: green; */
+
+}
+.form
+{
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40%;
+    /* margin-top: 2%; */
+}

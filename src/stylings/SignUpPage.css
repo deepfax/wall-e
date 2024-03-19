@@ -1,0 +1,35 @@
+.signup
+{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* border: 2px solid green; */
+    /* background-color: yellow; */
+    /* position: absolute; */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    max-height: 100vh;
+    width: 100vw;
+    max-width: 100vw;
+}
+.forms
+{
+    height: 75vh;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 2px solid green; */
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 40%;
+}
+.heading
+{
+    text-align: center;
+}
+h1{
+    font-size: larger;
+}
